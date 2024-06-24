@@ -21,7 +21,7 @@ builder.Services.AddSwaggerGen(c =>
         Contact = new OpenApiContact
         {
             Name = "HannaKaroline",
-            Email = "hanna.nascente22@mail.com",
+            Email = "hanna.nascente22@gmail.com",
             Url = new Uri("https://www.linkedin.com/in/hanna-karoline-nascente/")
         }
     });
